@@ -1,0 +1,1 @@
+This project was part of a learning journey with Google Developer Group on Campus UIN Syarif Hidayatullah Jakarta, where we explored practical applications of AI/ML and collaborated with fellow learners to build real solutions. This experience really deepened my understanding of data and its impact on model performance.
